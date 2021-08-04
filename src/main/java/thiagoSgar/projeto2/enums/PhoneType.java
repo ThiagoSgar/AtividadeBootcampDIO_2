@@ -1,4 +1,4 @@
-package thiagoSgar.projeto2.Enums;
+package thiagoSgar.projeto2.enums;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

@@ -1,4 +1,4 @@
-package thiagoSgar.projeto2.dto;
+package thiagoSgar.projeto2.dto.response;
 
 import lombok.Builder;
 import lombok.Data;

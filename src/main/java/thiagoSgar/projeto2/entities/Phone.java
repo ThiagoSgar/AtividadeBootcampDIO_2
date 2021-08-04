@@ -1,11 +1,10 @@
-package thiagoSgar.projeto2.Entity;
+package thiagoSgar.projeto2.entities;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import org.springframework.web.bind.annotation.GetMapping;
-import thiagoSgar.projeto2.Enums.PhoneType;
+import thiagoSgar.projeto2.enums.PhoneType;
 
 import javax.persistence.*;
 
